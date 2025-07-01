@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilpreet Kaur Bhatia</h1>
 <h3 align="center">A passionate Software Developer and Data Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilpreet0501" alt="dilpreet0501" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Big Data**
 
 - 💬 Ask me about **React, Node, MongoDB, C++, Python, Data structures and algorithms**
@@ -24,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilpreet0501&show_icons=true&locale=en&layout=compact" alt="dilpreet0501" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilpreet0501&show_icons=true&locale=en" alt="dilpreet0501" /></p>
-
